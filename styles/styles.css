@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,600&family=Open+Sans:wght@500&family=Oswald&family=Roboto:ital,wght@0,500;1,500&display=swap');
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+header{
+  text-align: center;
+  background-image: linear-gradient( to bottom, #33B06A,#1A5C38);
+  height: 150px;
+  padding-top: 30px;
+  color: #fff;
+}
+nav {
+  text-align: left;
+  color:#fff;
+  word-spacing: 5px;
+  padding-left: 20px;
+}
+body {
+  background-color: #84E1AD;
+}
+
+main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  background-color: #fff;
+  box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.226);
+  padding: 10px;
+}
+
+footer{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+#title{
+  font-size: 25px;
+  color:#2B6847;
+  padding: 10px 4px 5px 8px;
+  font-family: idroid;
+}
+h2{
+  font-size: 15px;
+  color:#2B6847;
+  padding: 1px 1px 1px 10px;
+  font-family: idroid;
+  background-color: #2B6847;
+  background-image: linear-gradient( to right, #C5ECD6,#fff);
+}
+
+h3{
+  padding: 10px;
+  background-color: #2FA866;
+  color: #fff;
+  border-radius: 10px 10px 0px 0px;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.226);
+}
+
+#firsth1{
+  font-size: 40px;
+  font-family: 'Open Sans', Arial, sans-serif;
+
+}
+
+#p1{
+  padding: 20px 1px 15px 1px;
+  font-size: 15px;
+}
+
+#listA{
+  margin-top: 0px;
+  padding-left: 5px ;
+  padding-top: 10px;
+  background-color: #C5EBD6 ;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.226);
+
+  
+}
